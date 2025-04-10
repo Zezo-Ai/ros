@@ -2,8 +2,8 @@
 Changelog for package rosbash
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.15.9 (2025-04-10)
+-------------------
 * roszsh: Fix rosmv completion (`#280 <https://github.com/ros/ros/issues/280>`_)
 * Keep rosed from running if the file doesn't exist in the package (`#278 <https://github.com/ros/ros/issues/278>`_)
 * Contributors: Timon Engelke
