@@ -2,6 +2,9 @@
 Changelog for package rosmake
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.15.9 (2025-04-10)
 -------------------
 * Fix typos (`#306 <https://github.com/ros/ros/issues/306>`_)

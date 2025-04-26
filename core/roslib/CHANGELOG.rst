@@ -2,6 +2,11 @@
 Changelog for package roslib
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Call realpaths for roslaunch and rosbash. (`#309 <https://github.com/ros/ros/issues/309>`_)
+* Contributors: Ivor Wanders
+
 1.15.9 (2025-04-10)
 -------------------
 * Fix typos (`#306 <https://github.com/ros/ros/issues/306>`_)
