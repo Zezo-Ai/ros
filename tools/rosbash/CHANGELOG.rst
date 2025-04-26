@@ -2,8 +2,8 @@
 Changelog for package rosbash
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.15.10 (2025-04-26)
+--------------------
 * Call realpaths for roslaunch and rosbash. (`#309 <https://github.com/ros/ros/issues/309>`_)
 * Contributors: Ivor Wanders
 
